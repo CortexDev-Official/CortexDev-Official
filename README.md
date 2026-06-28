@@ -2,7 +2,7 @@
 
 # Links
 
-[About Me (My Website)](https://about-cortexdev.vercel.app)
+[About Me (My Website)](https://cortexdev.online)
 
 [My **Modrinth** Profile](https://modrinth.com/user/CortexDev)
 
