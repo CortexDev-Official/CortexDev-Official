@@ -3,7 +3,7 @@
 
 # CortexDev
 
-Software developer and UI designer building Windows applications, browser tools, and utilities for the Roblox desktop client.
+Software developer and UI designer building Windows applications, web tools, and utilities for the Roblox desktop client.
 
 </div>
 
