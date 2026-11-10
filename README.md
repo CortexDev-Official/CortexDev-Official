@@ -29,7 +29,7 @@ A browser-based tool that removes text watermarks associated with ChatGPT, Claud
 - [**Modrinth**](https://modrinth.com/user/CortexDev) · [modrinth.com/user/CortexDev ↗](https://modrinth.com/user/CortexDev)
 - [**CurseForge**](https://www.curseforge.com/members/cortexdev) · [curseforge.com/members/cortexdev ↗](https://www.curseforge.com/members/cortexdev)
 - [**YouTube**](https://www.youtube.com/@CortexDev-official) · [youtube.com/@CortexDev-official ↗](https://www.youtube.com/@CortexDev-official)
-- [**X**](https://x.com/CortexDev_Net) · [x.com/CortexDev_Net ↗](https://x.com/CortexDev_Net)
+- [**X**](https://x.com/CortexDev_Net) · [x.com/ItsCortexDev ↗](https://x.com/ItsCortexDev)
 - [**Patreon**](https://www.patreon.com/CortexDev_Official) · [patreon.com/CortexDev_Official ↗](https://www.patreon.com/CortexDev_Official)
 - [**Roblox**](https://www.roblox.com/users/1769500) · [roblox.com/users/1769500 ↗](https://www.roblox.com/users/1769500)
 - [**Hugging Face**](https://huggingface.co/ItsCortexDev) · [huggingface.co/ItsCortexDev ↗](https://huggingface.co/ItsCortexDev)
